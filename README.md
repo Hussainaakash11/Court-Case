@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to Court-Case-Management-Sys
 
 ## Project info
 
@@ -48,4 +48,4 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-# Court-Case-Management-Sys
+
